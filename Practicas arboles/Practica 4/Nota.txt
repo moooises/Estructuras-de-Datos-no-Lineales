@@ -1,0 +1,1 @@
+-Paso muy fuerte de hacer el ejercicio 2, esto no es POO, pero ojo que os puede caer hacer algun TAD en el parcial

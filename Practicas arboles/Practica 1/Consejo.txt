@@ -1,0 +1,1 @@
+Siempre hacer las funciones claras,cuantas menos lineas mejor, y con la condicion de salida antes que el caso general.
